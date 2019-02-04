@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhw.iml" filepath="$PROJECT_DIR$/.idea/modules/webhw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhw_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webhw_main.iml" group="webhw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webhw_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webhw_test.iml" group="webhw" />
+    </modules>
+  </component>
+</project>

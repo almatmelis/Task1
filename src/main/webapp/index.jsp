@@ -8,9 +8,18 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Как это сделать</title>
   </head>
   <body>
+  <form action = "" method = "GET">
+    Введите текст: <input type = "text" name = "text">
+    <input type = "submit" value = "Отправить" />
+  </form>
+  <%
+    String textvalue = request.getParameter("text");
+  %>
+  <p><%= "Вы ввели " + textvalue%></p>
+
   <h1> i tak soidet  </h1>
   <p>
 
